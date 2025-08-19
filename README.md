@@ -1,6 +1,5 @@
 ### NAME : VASANTH S
 ### REG.NO : 212222110052
-### DATE : 19/08/2025
 
 #  EX-NO : 1    Led control using Arduino
 
@@ -99,4 +98,4 @@ void loop() {
 
 
 ## RESULT:
-Thus, too design and implement a system for LED control using an Arduino microcontroller and a push button has completed and verified successfully.
+Thus,the design and implement a system for LED control using an Arduino microcontroller and a push button has completed and verified successfully.
