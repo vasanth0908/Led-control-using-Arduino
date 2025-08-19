@@ -2,7 +2,7 @@
 ### REG.NO : 212222110052
 ### DATE : 19/08/2025
 
-#  EX-NO : 1    Led-control-using-Arduino
+#  EX-NO : 1    Led control using Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
